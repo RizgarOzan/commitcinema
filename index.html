@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Commit Cinema · repos from the reels</title>
+<meta name="description" content="Every GitHub repo featured in a Commit Cinema reel, with a one-line summary and a link.">
+<link rel="icon" href="avatar.png">
+<style>
+  :root { --bg: #12162b; --card: #1c2240; --line: #2e3766; --ink: #f4f6fb; --muted: #a3acd6; --gold: #ffd33d; --cyan: #5ee6ff; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: radial-gradient(1200px 600px at 50% -200px, #2b3570, var(--bg)); color: var(--ink);
+    font: 16px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; min-height: 100vh; }
+  main { max-width: 560px; margin: 0 auto; padding: 40px 16px 64px; }
+  header { text-align: center; margin-bottom: 28px; }
+  header img { width: 88px; height: 88px; border-radius: 50%; border: 3px solid var(--line); }
+  h1 { margin: 12px 0 4px; font-size: 24px; }
+  header p { margin: 0; color: var(--muted); }
+  .ig { display: inline-block; margin-top: 14px; padding: 8px 18px; border-radius: 999px; background: var(--gold); color: #12162b;
+    font-weight: 700; text-decoration: none; }
+  h2 { font-size: 13px; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); margin: 28px 0 12px; }
+  a.repo { display: block; background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 16px 18px;
+    margin-bottom: 12px; color: inherit; text-decoration: none; transition: border-color .15s; }
+  a.repo:hover { border-color: var(--cyan); }
+  .name { font-family: ui-monospace, Consolas, monospace; color: var(--cyan); font-weight: 600; word-break: break-all; }
+  .what { margin: 6px 0 8px; }
+  .meta { font-size: 14px; color: var(--muted); }
+  .meta a { color: var(--gold); }
+  footer { margin-top: 36px; text-align: center; font-size: 13px; color: var(--muted); }
+  footer a { color: var(--muted); }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <img src="avatar.png" alt="Commit Cinema logo">
+    <h1>Commit Cinema</h1>
+    <p>Tiny animated films about code and trending GitHub repos.<br>Every repo from the reels, newest first.</p>
+    <a class="ig" href="https://www.instagram.com/commitcinema/">Watch on Instagram</a>
+  </header>
+
+  <h2>Repos from the reels</h2>
+
+  <a class="repo" href="https://github.com/microsoft/TokenEconomizer">
+    <div class="name">microsoft/TokenEconomizer</div>
+    <div class="what">A plugin for Claude Code, Codex and Copilot CLI that cuts agent token cost: it remembers your repo, skips unused tools and stops error loops.</div>
+    <div class="meta">Reel: “Asked the AI agent to fix one typo. Got a $40 bill.” · Nov 9, 2026</div>
+  </a>
+
+  <a class="repo" href="https://github.com/Gathin23/cleanyourtv">
+    <div class="name">Gathin23/cleanyourtv</div>
+    <div class="what">Strips the ad wall off Android TV and Google TV. No root, nothing uninstalled, one line puts it all back.</div>
+    <div class="meta">Reel: “Paid for the TV. Still getting ads?” · Nov 9, 2026</div>
+  </a>
+
+  <footer>
+    Made by a dev and a bot. AI-assisted, human-approved.<br>
+    <a href="privacy.html">Privacy</a>
+  </footer>
+</main>
+</body>
+</html>
