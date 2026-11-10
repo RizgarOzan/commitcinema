@@ -4,6 +4,7 @@ Every GitHub repo featured in a [@commitcinema](https://www.instagram.com/commit
 
 | Repo | What it does | Reel |
 |---|---|---|
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | Makes your coding agent a security auditor, with a second agent checking every finding | [Nov 10, 2026](https://www.instagram.com/reel/DfkK-Z3jpuR/) |
 | [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) | Lifts the AI tensor-core cap on GeForce cards at boot, Linux only | [Nov 10, 2026](https://www.instagram.com/reel/Dfj2e5fiKTP/) |
 | [heydamir/unslop](https://github.com/heydamir/unslop) | Turns AI-looking UI into a designed one, for Claude Code, Codex and Antigravity | [Nov 9, 2026](https://www.instagram.com/reel/DfhNhzYjFNS/) |
 | [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) | Cuts the token bill of coding agents like Claude Code, Codex and Copilot CLI | [Nov 9, 2026](https://www.instagram.com/reel/DfgrcFFGLP2/) |
