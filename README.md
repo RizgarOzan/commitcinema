@@ -4,6 +4,7 @@ Every GitHub repo featured in a [@commitcinema](https://www.instagram.com/commit
 
 | Repo | What it does | Reel |
 |---|---|---|
+| [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) | Enables the Hermès watch faces on any Apple Watch | [Nov 12, 2026](https://www.instagram.com/reel/DfpkmXrAESS/) |
 | [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) | An IntelliJ-style IDE rebuilt in Rust that opens projects on a fraction of the RAM | [Nov 12, 2026](https://www.instagram.com/reel/DfocDWejuSL/) |
 | [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) | Lets an AI tap and swipe on your iPhone through a $7 ESP32 board, no jailbreak | [Nov 11, 2026](https://www.instagram.com/reel/Dfl1b4JCceq/) |
 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | Makes your coding agent a security auditor, with a second agent checking every finding | [Nov 10, 2026](https://www.instagram.com/reel/DfkK-Z3jpuR/) |
