@@ -4,6 +4,7 @@ Every GitHub repo featured in a [@commitcinema](https://www.instagram.com/commit
 
 | Repo | What it does | Reel |
 |---|---|---|
+| [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) | Teaches your coding agent current web features instead of old patterns | [Nov 14, 2026](https://www.instagram.com/reel/DfulCLTFZh2/) |
 | [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo) | Adds generated frames to a PS5 Remote Play stream on a Windows PC | [Nov 13, 2026](https://www.instagram.com/reel/Dfr_7oTDGC2/) |
 | [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) | Enables the Hermès watch faces on any Apple Watch | [Nov 12, 2026](https://www.instagram.com/reel/DfpkmXrAESS/) |
 | [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) | An IntelliJ-style IDE rebuilt in Rust that opens projects on a fraction of the RAM | [Nov 12, 2026](https://www.instagram.com/reel/DfocDWejuSL/) |
