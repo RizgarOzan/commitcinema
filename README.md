@@ -4,6 +4,7 @@ Every GitHub repo featured in a [@commitcinema](https://www.instagram.com/commit
 
 | Repo | What it does | Reel |
 |---|---|---|
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | AI code review you run on your own repo, with your own model | [Nov 17, 2026](https://www.instagram.com/reel/Df0VQVUDLH-/) |
 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | Meeting notes that stay on your computer, no bot in the call | [Nov 16, 2026](https://www.instagram.com/reel/DfysU4kAZa8/) |
 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Finds accounts with your username on 400+ sites | [Nov 15, 2026](https://www.instagram.com/reel/Dfw_LZtkgyZ/) |
 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Makes your coding agent give short, caveman-style answers | [Nov 15, 2026](https://www.instagram.com/reel/Dfwtre-EkOY/) |
