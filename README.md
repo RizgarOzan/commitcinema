@@ -4,6 +4,7 @@ Every GitHub repo featured in a [@commitcinema](https://www.instagram.com/commit
 
 | Repo | What it does | Reel |
 |---|---|---|
+| [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | Meeting notes that stay on your computer, no bot in the call | [Nov 16, 2026](https://www.instagram.com/reel/DfysU4kAZa8/) |
 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Finds accounts with your username on 400+ sites | [Nov 15, 2026](https://www.instagram.com/reel/Dfw_LZtkgyZ/) |
 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Makes your coding agent give short, caveman-style answers | [Nov 15, 2026](https://www.instagram.com/reel/Dfwtre-EkOY/) |
 | [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) | Teaches your coding agent current web features instead of old patterns | [Nov 14, 2026](https://www.instagram.com/reel/DfulCLTFZh2/) |
