@@ -4,6 +4,7 @@ Every GitHub repo featured in a [@commitcinema](https://www.instagram.com/commit
 
 | Repo | What it does | Reel |
 |---|---|---|
+| [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler) | Free open source tool that swaps a game's upscaler for FSR or XeSS to get more frames on an older GPU | [Nov 22, 2026](https://www.instagram.com/reel/DgBMjSwDQfE/) |
 | [Bodila51/gtavi-claudecode](https://github.com/Bodila51/gtavi-claudecode) | Free Claude Code plugin that finds stream moments and cuts them into clips for GTA 6 clipping campaigns | [Nov 19, 2026](https://www.instagram.com/reel/Df7SU7qireX/) |
 | [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck) | Free open source Steam client for Android, runs Windows games through Proton, no root | [Nov 18, 2026](https://www.instagram.com/reel/Df4thD5nw_5/) |
 | [OpenCloudGaming/OpenNOW](https://github.com/OpenCloudGaming/OpenNOW) | Free open source GeForce NOW client for Windows, Mac, Linux, Steam Deck, Android and more | [Nov 17, 2026](https://www.instagram.com/reel/Df2I7ErjJ-r/) |
