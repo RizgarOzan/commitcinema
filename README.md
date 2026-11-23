@@ -4,6 +4,7 @@ Every GitHub repo featured in a [@commitcinema](https://www.instagram.com/commit
 
 | Repo | What it does | Reel |
 |---|---|---|
+| [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) | Free open source script that claims the free games on Epic Games, Prime Gaming and GOG for you, run with Docker or Node | [Nov 23, 2026](https://www.instagram.com/reel/DgF6KKdlopB/) |
 | [janhq/jan](https://github.com/janhq/jan) | Free open source ChatGPT alternative that runs AI models fully offline on your own computer, with an optional local API server | [Nov 23, 2026](https://www.instagram.com/reel/DgFk213jM8x/) |
 | [Blinue/Magpie](https://github.com/Blinue/Magpie) | Free open source window upscaler for Windows that scales a lower-resolution game to your full screen, with FSR, Anime4K and CRT filters | [Nov 23, 2026](https://www.instagram.com/reel/DgEwCj2IXnR/) |
 | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | Free open source tool that cuts a long video into vertical clips with titles and covers, running on your own PC | [Nov 22, 2026](https://www.instagram.com/reel/DgDkbkJiQMg/) |
