@@ -4,6 +4,7 @@ Every GitHub repo featured in a [@commitcinema](https://www.instagram.com/commit
 
 | Repo | What it does | Reel |
 |---|---|---|
+| [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | Free open source download manager for links, torrents, FTP, streams and Hugging Face models, with progress that is kept if a download is interrupted | [Nov 25, 2026](https://www.instagram.com/reel/DgLU-I4tP3c/) |
 | [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | Free open source app that mirrors an Android phone to your PC and lets you control it with your keyboard and mouse, over USB or Wi-Fi | [Nov 24, 2026](https://www.instagram.com/reel/DgH23HZjw0d/) |
 | [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | Free open source PowerShell script that removes preinstalled apps, ads and telemetry on Windows and can switch off Copilot and Recall | [Nov 24, 2026](https://www.instagram.com/reel/DgHq7a7jfzr/) |
 | [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) | Free open source script that claims the free games on Epic Games, Prime Gaming and GOG for you, run with Docker or Node | [Nov 23, 2026](https://www.instagram.com/reel/DgF6KKdlopB/) |
