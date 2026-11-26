@@ -4,6 +4,7 @@ Every GitHub repo featured in a [@commitcinema](https://www.instagram.com/commit
 
 | Repo | What it does | Reel |
 |---|---|---|
+| [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) | Free open source game library manager that pulls Steam, Epic, GOG, EA App and Battle.net games, plus emulators, into one library on Windows | [Nov 26, 2026](https://www.instagram.com/reel/DgM_T1Es2vD/) |
 | [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine) | Free open source game stream host: play your PC games on any device with a Moonlight app, paired from a web page | [Nov 26, 2026](https://www.instagram.com/reel/DgMcvJshq7e/) |
 | [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | Free open source download manager for links, torrents, FTP, streams and Hugging Face models, with progress that is kept if a download is interrupted | [Nov 25, 2026](https://www.instagram.com/reel/DgLU-I4tP3c/) |
 | [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | Free open source app that mirrors an Android phone to your PC and lets you control it with your keyboard and mouse, over USB or Wi-Fi | [Nov 24, 2026](https://www.instagram.com/reel/DgH23HZjw0d/) |
