@@ -4,6 +4,8 @@ Every GitHub repo featured in a [@commitcinema](https://www.instagram.com/commit
 
 | Repo | What it does | Reel |
 |---|---|---|
+| [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) | Free open source PlayStation 3 emulator for Windows, Linux, macOS and FreeBSD, with a public compatibility list; you bring your own game dumps and firmware | [Nov 27, 2026](https://www.instagram.com/reel/DgPB9ujou7x/) |
+| [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper) | Free open source Windows app that swaps the DLSS files in your installed games for newer versions and keeps your original file | [Nov 26, 2026](https://www.instagram.com/reel/DgOAmohpiPD/) |
 | [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) | Free open source game library manager that pulls Steam, Epic, GOG, EA App and Battle.net games, plus emulators, into one library on Windows | [Nov 26, 2026](https://www.instagram.com/reel/DgM_T1Es2vD/) |
 | [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine) | Free open source game stream host: play your PC games on any device with a Moonlight app, paired from a web page | [Nov 26, 2026](https://www.instagram.com/reel/DgMcvJshq7e/) |
 | [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | Free open source download manager for links, torrents, FTP, streams and Hugging Face models, with progress that is kept if a download is interrupted | [Nov 25, 2026](https://www.instagram.com/reel/DgLU-I4tP3c/) |
